@@ -1,0 +1,11 @@
+Sprint 1 13.xx till 13.45
+Utvecklingsteam 1: ER-diagram
+Utvecklingsteam 2 & Projektledare: Skapa databas, se till så alla har tillgång samt att Git-projekt finns.
+
+Sprint 2 13.55 till 14.25
+Utvecklingsteam 1: Fortsätta ER-diagram
+Utvecklingsteam 2: Grundlig kodstruktur i databasen
+
+Sprint 3 14.35 till 15.05
+
+Sprint 4 15.15 till 15.45
