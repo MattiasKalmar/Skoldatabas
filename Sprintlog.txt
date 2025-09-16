@@ -1,11 +1,40 @@
 Sprint 1 13.xx till 13.45
 Utvecklingsteam 1: ER-diagram
-Utvecklingsteam 2 & Projektledare: Skapa databas, se till så alla har tillgång samt att Git-projekt finns.
+Utvecklingsteam 2 & Produktägare: Skapa databas, se till så alla har tillgång samt att Git-projekt finns.
+
+ER-diagram färdigt men inte riktiga nöjda. Produktägare ska hjälpa till för feedback så det blir enligt önskemål.
+För Utvecklingsteam 2 har allt gått bra. De ska börja strukturera databasen nu.
 
 Sprint 2 13.55 till 14.25
-Utvecklingsteam 1: Fortsätta ER-diagram
-Utvecklingsteam 2: Grundlig kodstruktur i databasen
+Utvecklingsteam 1 & Produktägare: Fortsätta ER-diagram
+Utvecklingsteam 2: Strukturera databasen med tables.
+Nytt ER-diagram påbörjat enligt produktägarens önskemål. Tveksamt om de hinner klart vid sprint 3. 
+Utvecklingsteam 2 stötte på lite problem med kodspråk men som nu är åtgärdat. Tables är ifyllda och det flyter på bra.
 
 Sprint 3 14.35 till 15.05
+Utvecklingsteam 1 & Produktägare: Fortsätta ER-diagram
+Utvecklingsteam 2: Klara med roller samt få fram en demofunktion.
+Produktägare: Förbereda Github för uppladdning.
 
 Sprint 4 15.15 till 15.45
+
+
+
+
+
+Snabbinfo GITHUB Quick setup — if you’ve done this kind of thing before
+or	
+https://github.com/MattiasKalmar/Skoldatabas.git
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+echo "# Skoldatabas" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MattiasKalmar/Skoldatabas.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/MattiasKalmar/Skoldatabas.git
+git branch -M main
+git push -u origin main
